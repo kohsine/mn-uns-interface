@@ -1,4 +1,4 @@
-# nm-uns-ui
+# nm-uns-interface
 
 Frontend for [mn-uns-contract](https://github.com/kohsine/mn-uns-contract)
 
